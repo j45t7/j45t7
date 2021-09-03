@@ -1,7 +1,6 @@
+# Hi there 👋 I'm Justyna!
 
-# [https://raw.githubusercontent.com/j45t7/j45t7/main/header.png]
-
-Hi, I'm Justyna, a language graduate turned Web Developer. After few years of teaching English in Japan, I decided to make a career change. I started to teach myself how to code. From April 2020 I work as a web developer in Osaka. I work mainly with React and NodeJS.
+I'm a language graduate turned Web Developer. After few years of teaching English in Japan, I decided to make a career change. I started to teach myself how to code. From April 2020 I work as a web developer in Osaka. I work mainly with React and NodeJS.
 
 Tech skills include: HTML, CSS, Javascript, React, Node, Express, Sequelize, Gatsby
 
