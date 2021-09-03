@@ -10,7 +10,7 @@ Tech skills include: HTML, CSS, Javascript, React, Node, Express, Sequelize, Gat
 
 <p style="display:flex; justify-content: flex-start">
 <img style="width: 30px; margin: 2px" src="./images/javascript.svg">
-<img style="margin: 2px" src="./images/html5.svg">
+<img style="width: 30px; margin: 2px" src="./images/html5.svg">
 <img style="width: 30px; margin: 2px" src="./images/css3.svg">
 <img style="width: 30px; margin: 2px" src="./images/react.svg">
 <img style="width: 30px; margin: 2px" src="./images/nodedotjs.svg">
