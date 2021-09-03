@@ -18,14 +18,14 @@ Tech skills include: HTML, CSS, Javascript, React, Node, Express, Sequelize, Gat
 <img style="width: 30px; margin: 2px" src="./images/express.svg">
 </p>
 
-## 📚 Currently learning
+### 📚 Currently learning
 
 <p style="display:flex; justify-content: flex-start">
 <img style="width: 30px; margin: 2px" src="./images/styledcomponents.svg">
 <img style="width: 30px; margin: 2px" src="./images/typescript.svg">
 </p>
 
-## 📚 What I want to learn
+### 📚 What I want to learn
 
 <p style="display:flex; justify-content: flex-start">
 <img style="width: 30px" src="./images/amazonaws.svg">
@@ -33,7 +33,7 @@ Tech skills include: HTML, CSS, Javascript, React, Node, Express, Sequelize, Gat
 <img style="width: 30px" src="./images/strapi.svg">
 </p>
 
-## 📧 Contact Me
+### 📧 Contact Me
 
 <p style="display:flex; justify-content: flex-start">
 <a href="https://www.linkedin.com/in/justyna-marciniak-61694323/"><img style='width: 30px; margin: 2px' src="./images/linkedin.svg"></a>
