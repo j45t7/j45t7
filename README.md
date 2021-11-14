@@ -36,7 +36,8 @@ Tech skills include: HTML, CSS, Javascript, React, Node, Express, Sequelize, Gat
 ### 📧 Contact Me
 
 <p style="display:flex; justify-content: flex-start">
-<a href="https://www.linkedin.com/in/justyna-marciniak-61694323/"><img style='width: 30px; margin: 2px' src="./images/linkedin.svg"></a>
+<a href="www.linkedin.com/in/marciniak-justyna/"><img style='width: 30px; margin: 2px' src="./images/linkedin.svg"></a>
+<a href="https://www.instagram.com/j45t7/"><img style='width: 30px; margin: 2px' src="./images/instagram.svg"></a>                          
 <a href="mailto:justy.marciniak@gmail.com"><img style="width: 30px; margin: 2px" src="./images/gmail.svg"></a>
 </p>
 
