@@ -2,7 +2,7 @@
 
 I'm a language graduate turned Web Developer. After a few years of teaching English in Japan, I decided to make a career change. I started to teach myself how to code. From April 2020 I work as a web developer in Osaka. I work mainly with React and NodeJS.
 
-Tech skills include: HTML, CSS, Javascript, React, Node, Express, Sequelize, Gatsby
+Tech skills include: HTML, CSS, Javascript, React, Node, Express, Sequelize, Next.js
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j45t7&hide=stars,issues&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
