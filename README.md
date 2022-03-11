@@ -9,39 +9,39 @@ Tech skills include: HTML, CSS, Javascript, React, Node, Express, Sequelize, Nex
 ## 👩🏻‍💻 Skills
 
 <p style="display:flex; justify-content: flex-start">
-<img style="width: 30px; margin: 2px" src="./images/javascript.svg">
-<img style="width: 30px; margin: 2px" src="./images/html5.svg">
-<img style="width: 30px; margin: 2px" src="./images/css3.svg">
-<img style="width: 30px; margin: 2px" src="./images/react.svg">
-<img style="width: 30px; margin: 2px" src="./images/nodedotjs.svg">
-<img style="width: 30px' src="./images/sequelize.svg">
-<img style="width: 30px; margin: 2px" src="./images/express.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
 </p>
 
 ### 📚 Currently learning
 
 <p style="display:flex; justify-content: flex-start">
-<img style="width: 30px; margin: 2px" src="./images/styledcomponents.svg">
-<img style="width: 30px; margin: 2px" src="./images/typescript.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </p>
 
 ### 📚 What I want to learn
 
 <p style="display:flex; justify-content: flex-start">
-<img style="width: 30px" src="./images/amazonaws.svg">
-<img style="width: 30px" src="./images/graphql.svg">
-<img style="width: 30px" src="./images/strapi.svg">
+<img style="width: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+<img style="width: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
 </p>
 
 ### 📧 Contact Me
 
 <p style="display:flex; justify-content: flex-start">
-<a href="https://www.linkedin.com/in/marciniak-justyna/"><img style='width: 30px; margin: 2px' src="./images/linkedin.svg"></a>
-<a href="https://www.instagram.com/j45t7/"><img style='width: 30px; margin: 2px' src="./images/instagram.svg"></a>                          
-<a href="mailto:justy.marciniak@gmail.com"><img style="width: 30px; margin: 2px" src="./images/gmail.svg"></a>
+<a href="https://www.linkedin.com/in/marciniak-justyna/"><img style='width: 30px; margin: 2px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=j45t7)
-
-
-
