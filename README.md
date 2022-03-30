@@ -35,7 +35,7 @@ Tech skills include: HTML, CSS, Javascript, React, Node, Express, Sequelize, Nex
 <p style="display:flex; justify-content: flex-start">
 <img style="width: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 <img style="width: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+<img style="width: 30px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
 </p>
 
 ### 📧 Contact Me
